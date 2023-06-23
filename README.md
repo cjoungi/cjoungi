@@ -1,9 +1,14 @@
-<div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=F24194&height=200&section=header&text=Hello%20:\)-nl-I'm%20JoungIm&fontSize=30&fontAlign=90&fontAlign=85&fontAlignY=20&fontAlignY=40)
+<div align=center>
+  
+## **Hello :) <br> I'm JoungIm!** <br><br>
+
+
+ 
 ### 💡 Introduction
-하루하루 성장하기 위해 공부하는
-**열정 가득한 신입개발자**입니다!
+하루하루 성장하기 위해 공부하는 열정 가득한 신입개발자입니다!<br><br>
+`Notion Portfolio` - <a href="https://www.notion.so/Chloe-5a4387d56e304e16aacee425761e7f5d#5e9d7734f3a549f6ae496f5148409250"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a> <br><br>
+`개발 Log` - <a href="https://cjoungi.github.io"><img src="https://img.shields.io/badge/Github Pages-222222?style=flat&logo=githubpages&logoColor=white"/></a>
 <br><br>
 
 ### ☘ Stack
@@ -25,7 +30,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjoungi&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjoungi&count_bg=%23F24194&title_bg=%23535151&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
+
 <!--
 **cjoungi/cjoungi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
